@@ -31,7 +31,7 @@
 ## 🕹️ Connect with me
 
 [<img align="left" alt="https://portfolio-01-inky.vercel.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="AlfredDagenais | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="HarshGahlot | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br /><br /><br />
 
@@ -49,14 +49,10 @@ Thanks! :heart:
 
 <img src="https://i.giphy.com/media/W0crByKlXhLlC/200.webp" alt="Programmation" width="200" /><img src="https://media3.giphy.com/media/RgAl2ESJFnIQ0/giphy.gif" alt="Spock" width="200" />
 
-[website]: https://AlfredDagenais.com
-[twitter]: https://twitter.com/ProgrammeurWeb
-[facebook]: https://facebook.com/AlfredDagenaisWeb/
-[instagram]: https://instagram.com/alfreddagenaisweb
-[linkedin]: https://linkedin.com/in/AlfredDagenais
+[website]: https://portfolio-01-inky.vercel.app/
+[linkedin]: https://www.linkedin.com/in/harsh-gahlot-813a93374
 [websitekm]: https://KilukruMedia.com
 [websitemtp]: https://mangetespousses.com
-[paypal-donations]: https://paypal.me/AlfredDagenais
 [patreon]: https://www.patreon.com/alfreddagenais
 [buymeacoffee]: https://www.buymeacoffee.com/AlfredDagenais
 [Ko-Fi]: https://ko-fi.com/alfreddagenais
